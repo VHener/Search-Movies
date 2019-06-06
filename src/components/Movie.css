@@ -1,0 +1,14 @@
+.movie {
+  margin: 10px;
+  padding: 10px;
+}
+
+.movie span {
+  font-size: 12px;
+  text-decoration: none;
+  color: #333;
+}
+
+.show{display:block !important;}
+
+.hide{display:none !important;}
