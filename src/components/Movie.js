@@ -3,9 +3,9 @@ import PropTypes from "prop-types";
 import { ListGroup } from 'react-bootstrap';
 function Movie(props) {
   return (
-      <ListGroup>
-        <ListGroup.Item variant="primary">Year: {props.year} - Quantity: {props.movies}</ListGroup.Item>
-      </ListGroup>
+    <ListGroup>
+      <ListGroup.Item variant="primary">Year: {props.year} - Quantity: {props.movies}</ListGroup.Item>
+    </ListGroup>
   );
 }
 
